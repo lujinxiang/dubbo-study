@@ -1,2 +1,4 @@
-com/xianghong/DubboApplication.class
 com/xianghong/controller/HelloController.class
+com/xianghong/service/impl/SayHelloServiceImpl.class
+com/xianghong/service/SayHelloService.class
+com/xianghong/DubboConsumerApplication.class
