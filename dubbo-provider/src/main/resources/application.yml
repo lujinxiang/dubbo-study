@@ -1,0 +1,11 @@
+dubbo:
+  application:
+    name: dubbo-provider
+  registry:
+    address: zookeeper://192.168.1.5:2181
+  protocol:
+    name: dubbo
+    port: 20884
+
+server:
+  port: 8087
